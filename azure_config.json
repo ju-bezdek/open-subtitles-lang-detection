@@ -1,0 +1,6 @@
+{
+    "ENV_NAME":"huggingface_nlp",
+    "COMPUTE_TARGET":"Standard-NC6-Promo",
+    "EXPERIMENT_NAME":"distilbert-open-subtitles-lang-detector"
+
+}

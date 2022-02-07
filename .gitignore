@@ -1,0 +1,9 @@
+.cache/
+*.csv
+src/train_tf.py
+src/__pycache__/
+open-subtitles-dataset/.DS_Store
+logs/*
+__pycache__/*
+azureml-logs*
+.DS_Store

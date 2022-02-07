@@ -1,0 +1,4 @@
+transformers>=4.15.0
+datasets>=1.17.0
+torch
+sklearn

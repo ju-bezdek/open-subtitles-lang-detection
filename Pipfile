@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tqdm = "*"
+pandas = "*"
+datasets = "*"
+transformers = "*"
+sklearn = "*"
+torch = "==1.9.0"
+azureml = "*"
+azureml-core = "*"
+cloud-tpu-client = "==0.10"
+tensorflow = "*"
+
+[requires]
+python_version = "3.8"
